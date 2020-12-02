@@ -28,6 +28,7 @@ This project has the following content
 
 The folder **bash** contains individual training task with hyper-parameters, and the **start_train.sh** can schedule multiple task in one bash file.  
 
+![AUC vs FLOP comparison](/auc_flop.png)
 
 ## Maintainers
 anonymous
